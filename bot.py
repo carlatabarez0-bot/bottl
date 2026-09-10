@@ -16,7 +16,7 @@ from telegram.ext import (
 # ---------------------------------------------------------------------------
 
 # El token se lee de una variable de entorno (NUNCA lo escribas directo en el código)
-TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TOKEN = os.environ.get("8637656121:AAEVZjQLTddCEUxyw91OsjGvz8vKjUS48nE")
 
 # Si quieres que SOLO tú puedas usar el bot, pon aquí tu ID numérico de Telegram.
 # Déjalo como None si no quieres restringir el acceso.
